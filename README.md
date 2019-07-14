@@ -6,6 +6,6 @@ Final Year Project Log
 - Ran initial revisions on Python Quantum library simulator (QISKIT)
 - Re-gathered required documents(books) required for the project. (QUANTUM COMPUTING A Gentle Introduction by Eleanor Rieffel and Wolfgang Polak)
 
-### 14.07.2019 (Saturday)
+### 14.07.2019 (Sunday)
 - Engaged in studying online tutorials.
 - Created 5 phase project break down for the Assignment.
